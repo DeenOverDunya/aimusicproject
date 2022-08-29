@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'DynaPuff', cursive;
+font-size: 15px;
+background-attachment: fixed;
+
+
+}
+
+h3{
+
+color:white;
+}
+
+span
+{
+background-color: #BDE0FE;
+color:#006466;
+}
+
+
+canvas
+{
+background:#CDB4DB ;
+border: #006466;
+border-width: 20px;
+border-radius: 20px;
+margin-left: 18px;
+margin-top: 80px;
+box-shadow: 5px 5px 5px #73cfd8;
+}
+
+
+h4
+{
+
+color:white;
+font-size: 25px;
+}
